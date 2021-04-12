@@ -1,3 +1,1 @@
-for i in range(12):
-    print(i, end=" ")
-    
+print("the name of this file is: one.py")
